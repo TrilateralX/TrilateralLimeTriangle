@@ -22,7 +22,7 @@ import Main;
 
 		#if !munit
 		var app = new Main();
-		app.meta.set("build", "1");
+		app.meta.set("build", "2");
 		app.meta.set("company", "Nanjizal");
 		app.meta.set("file", "TrilateralLimeTriancle");
 		app.meta.set("name", "TrilateralLimeTriangle");
